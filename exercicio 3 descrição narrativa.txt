@@ -1,0 +1,12 @@
+3. Faça um algoritmo com descrição narrativa e em pseudocódigo para
+calcular e apresentar o valor do volume de uma lata de óleo, utilizando a
+equação: Volume = PI * raio 2 * altura. 
+Implemente no software (VISUALG).
+
+Resposta: Algoritmo "Calculadora de volume de lata" 
+Insirir a altura e raio para resultar no volume 
+ler a altura da lata
+ler o raio da lata
+calcular usando a equação
+Volume = PI * raio 2 * altura.
+resultado Volume da lata.
